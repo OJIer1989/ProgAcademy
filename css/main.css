@@ -72,7 +72,7 @@ a {
 }
 
 .head-info {
-  font-size: 35px;
+  font-size: 45px;
   margin-bottom: 50px;
 }
 
@@ -82,9 +82,13 @@ a {
 }
 
 .homework-link {
-  font-size: 30px;
+  font-size: 35px;
+  line-height: 45px;
   margin-left: 10px;
   margin-bottom: 20px;
+}
+.homework-link>span{
+  color: red;
 }
 
 .homework-link::marker {
